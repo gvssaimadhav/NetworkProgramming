@@ -17,6 +17,9 @@ public class GettingImageFromURL extends JFrame implements ActionListener {
   
   try {
   url = new URL("https://vitap.ac.in/wp-content/uploads/2021/07/SCOPE_1.jpg");
+  url = new URL("https://vitap.ac.in/wp-content/uploads/2021/07/SCOPE_1.jpg");
+  url = new URL("https://vitap.ac.in/wp-content/uploads/2021/07/SCOPE_1.jpg");
+  url = new URL("https://vitap.ac.in/wp-content/uploads/2021/07/SCOPE_1.jpg");
   }
   catch (MalformedURLException e) {
   e.printStackTrace();
